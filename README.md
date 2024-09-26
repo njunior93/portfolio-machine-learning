@@ -6,3 +6,5 @@
 
 <b>Relação dos valores investidos em publicidades com as vendas</b>  https://colab.research.google.com/drive/1OmL09V6uiOB0fHyjOkA7AKilWBbZDHhY?usp=sharing
 
+<b>Calculo de limite de credito baseado no salario</b> https://colab.research.google.com/drive/1LiYQHEJL_pSgg4GV9mRmz-caF38UwVHD?usp=sharing
+
