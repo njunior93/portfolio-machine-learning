@@ -2,7 +2,7 @@
 <p>Repositório com foco em estudos de Machine Learning. Relatorios gerados por mim usando bases ficticias OU NÃO de dados, para mostrar e praticar meu conhecimento sobre o ramo.</p>
 
 <h2>Regressão Linear</h2>
-<p>Regressão linear é um algoritmo supervisionado de machine learning usado para estimar o valor de algo baseado em uma série de outros dados históricos, portanto olhando para o passado você pode “prever” o futuro.</p>
+<p>Regressão linear é um algoritmo supervisionado de machine learning usado para estimar o valor de algo baseado em uma série de outros dados históricos, portanto olhando para o passado você pode “prever” o futuro. Uma Analise preditiva</p>
 
 <ul>
   <li><b>Relação dos valores investidos em publicidades com as vendas</b>  
