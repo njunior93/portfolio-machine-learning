@@ -17,7 +17,20 @@
   </li>    
 </ul>
 
+<h2>KNN (k-nearest neighbors algorithm) e Regressão Logistica</h2>
+<p>O KNN é muito utilizado em problemas de classificação, tentando classificar cada amostra de um conjunto de dados avaliando sua distância em relação aos vizinhos mais próximos. Se os vizinhos mais próximos forem majoritariamente de uma classe, a amostra em questão será classificada nesta categoria. Um Analise Classiticatoria podendo ser usando tambem como um algoritmo para previsão</p>
 
+<p>A Regressão logística é um algoritmo que lida com questões e problemas de classificação ou categorica. Sendo mais aconselhavel na utilização para prever resultados Binarios. </p>
+
+<ul>
+  <li><b>Um algoritmo de predição para definir a qualidade do vinho baseada em testes físico-químicos.</b>
+    <ul>
+      <li>https://colab.research.google.com/drive/1zPK6JRwSPUEskRbHoos4F13qqw0_1YqR#scrollTo=KoYGwDCy-6xu</li>
+      <li>Dados usados: https://archive.ics.uci.edu/dataset/186/wine+quality</li>
+    </ul>
+  </li>
+  
+</ul>
 
 
 
