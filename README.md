@@ -23,6 +23,11 @@
     <ul>
       <li>https://colab.research.google.com/drive/17R2ZT1N2jRQyAHlJsLKXP56h9z8d2z0l?usp=sharing</li>
     </ul>
+  </li>
+  <li><b>Projeto Machine Learning Titanic</b> 
+    <ul>
+      <li>https://colab.research.google.com/drive/12irCRMV0mDlsgcRhBZo-oYee5E-8nHcE?usp=sharing</li>
+    </ul>
   </li> 
 </ul>
 
