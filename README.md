@@ -28,7 +28,12 @@
     <ul>
       <li>https://colab.research.google.com/drive/12irCRMV0mDlsgcRhBZo-oYee5E-8nHcE?usp=sharing</li>
     </ul>
-  </li> 
+  </li>
+  <li><b>Machine Learning usando Ridge e Lasso</b> 
+    <ul>
+      <li>https://colab.research.google.com/drive/1cOWd5FUAOlhko2sUhnpG3_gR7i05VF4N?usp=sharing</li>
+    </ul>
+  </li>
 </ul>
 
 
